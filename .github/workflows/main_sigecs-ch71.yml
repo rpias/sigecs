@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'sigecs-ch71'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5CEE13D3C2A347439DE369520CFE1B8C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D0D3F5850A534F0195532CA781B6625D }}
           package: .
