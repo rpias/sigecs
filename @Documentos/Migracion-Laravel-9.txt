@@ -1,0 +1,76 @@
+Migración a Laravel 9
+
+Precondiciones
+
+https://laravel.com/docs/9.x/releases
+
+PHP versión 8.0 o superior
+Composer versión 2 o superior
+
+
+1:: Crear nuevo proyecto de Laravel 9
+
+2:: Reemplazar carpetas del proyecto nuevo por las viejas
+
+    /public
+    /resources/views
+    /routes/web.php
+    /app/Controllers
+
+3:: Instalar dependencias
+
+        composer require laravel/ui
+        php artisan ui bootstrap --auth
+        composer require laravelcollective/html
+        composer require laraveles/spanish
+        composer require yajra/laravel-datatables-oracle:"~9.0"
+
+4:: Ejecutar
+
+        php artisan vendor:publish --tag=datatables
+        composer install -n --ignore-platform-req=ext-gd
+        
+
+5:: Cambiar / agregar dentro de archivos
+
+    Agregar en /app/providers/RouteServiceProviders
+
+         protected $namespace = 'App\Http\Controllers';
+
+    Cambiar en /app/providers/RouteServiceProviders
+
+            public function boot()
+            {
+                $this->configureRateLimiting();
+
+                $this->routes(function () {
+                    Route::prefix('api')
+                        ->middleware('api')
+                        ->namespace($this->namespace)
+                        ->group(base_path('routes/api.php'));
+
+                    Route::middleware('web')
+                        ->namespace($this->namespace)
+                        ->group(base_path('routes/web.php'));
+                });
+            }
+
+
+    /config/app.php
+        Cambiar a:     'locale' => 'es',
+        
+        Agregar en  'providers' :
+
+              Barryvdh\DomPDF\ServiceProvider::class,
+              Yajra\DataTables\DataTablesServiceProvider::class,
+
+        Agregar en  'aliases' :
+
+                  'PDF' => Barryvdh\DomPDF\Facade::class,
+
+10:: Errores conocido y solución
+
+    Error : Despues del Login No encuentra la Clase HomeController
+    Solución: Eliminar el contenido de /boostrap/cache
+
+

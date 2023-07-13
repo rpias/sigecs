@@ -1,0 +1,35 @@
+@page 
+{
+    margin-top: 1.5cm;
+    margin-right: 1.0cm;
+    margin-left: 1cm;
+}
+
+img
+{
+    width: 85%;
+    height: 100px;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+
+.encabezado-titulo
+{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 3%;
+}
+
+.encabezado-fecha
+{
+    text-align: center;
+    word-spacing: 30px;
+    margin-left:30%;
+    margin-top: 3%;
+}
+
+.firmas
+{
+    margin-top: 25%;
+    word-spacing: 220px;
+}

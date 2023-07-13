@@ -1,0 +1,10 @@
+Estructura basica de Laravel
+https://ajgallego.gitbooks.io/laravel-5/content/capitulo_1_funcionamiento_basico.html
+
+
+De todo un poco de Laravel
+https://www.nigmacode.com/laravel
+
+
+Para agregarle botones de exprtar a PDF - EXCEL - ETC. a datatables de https://datatables.net
+https://datatables.net/extensions/buttons/examples/initialisation/export.html

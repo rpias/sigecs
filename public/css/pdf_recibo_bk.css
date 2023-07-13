@@ -1,0 +1,173 @@
+@page 
+{
+    margin: 0.5cm 0.5cm;
+}
+
+.contenedor
+{
+    width: 99%;
+    height: 99%;
+    border: 1px solid black;
+}
+
+.via-cliente
+{
+    width: 100%;
+    height: 50%;
+    border-bottom: 1px solid black;
+}
+
+.via-administracion
+{
+    width: 100%;
+    height: 50%;
+}
+
+.contenedor-fecha-unidad-via-numero
+{
+    width: 85%;
+    height: 11%;
+    margin-left: 7%;
+    margin-top: 1%;
+}
+
+.fecha
+{
+    width: 20%;
+    height: 100%;
+    float:left
+}
+
+.tabla-fecha
+{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 12px;
+}
+
+.tabla-fecha td
+{
+    color: #0000ff;
+    font-weight: bold;
+}
+
+.unidad
+{
+    width: 18%;
+    height: 100%;
+    margin-left: 1%;
+    float:left
+}
+
+.tabla-unidad
+{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 12px;
+}
+
+.tabla-unidad td
+{
+    color: #0000ff;
+    font-weight: bold;
+}
+
+.via-cliente-texto
+{
+    margin-left: 3%;
+    margin-top: 1%;
+    font-size: 25px;
+    color: #b22222;
+    float:left
+}
+
+.via-administracion-texto
+{
+    margin-left: 3%;
+    margin-top: 1%;
+    font-size: 18px;
+    color: #b22222;
+    float:left
+}
+
+.serie-numero
+{
+    margin-left: 4%;
+    font-size: 20px;
+    font-weight: bold;
+    color: #b22222;
+    float:left
+}
+
+.contenedor-importe
+{
+    width: 85%;
+    height: 25%;
+    margin-left: 7%;
+    margin-top: 1%;
+}
+
+.tabla-importe
+{
+    text-align: center;
+    font-size: 12px;
+}
+
+.tabla-importe td
+{
+    color: #0000ff;
+}
+
+.td-concepto
+{
+    color: #000000!important;
+}
+
+.td-total
+{
+    font-weight: bold;
+    background-color: #e2e2e2;
+}
+
+.contenedor-leyenda
+{
+    width: 85%;
+    height: 25%;
+    margin-left: 7%;
+}
+
+.contenedor-leyenda p
+{
+    word-break: break-all;
+}
+
+.leyenda-agregada
+{
+    color:#0000ff;
+    text-decoration: underline;
+}
+
+.pie-leyenda
+{
+    margin-top: 5%;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.pie-leyenda-firma
+{
+    margin-top: -2%;
+    text-decoration: overline;
+    text-align: right;
+    font-size: 14px;
+}
+
+img
+{
+    width: 85%;
+    height: 100px;
+    margin-left: 7%;
+    margin-top: 2%;
+}

@@ -1,0 +1,241 @@
+<?php
+use Illuminate\Support\Facades\Route;
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+*/
+
+// =================================================================================
+// ======  Raiz del Sitio - siempre envia a login ==================================
+
+Route::get('/', function(){
+
+    return view('auth.login');
+
+});
+
+// =================================================================================
+// ======== Pagina Principal =======================================================
+
+Route::get('/index', 'HomeController@index')->middleware('auth');
+Route::post('index_rol', 'RolController@index_post')->middleware('auth');
+
+// =================================================================================
+// ===  RUTAS MENU =================================================================
+// =================================================================================
+
+Route::get('ing_recibos', 'CobranzaController@ingreso_recibos')->middleware('auth');
+Route::get('pdf_recibo', 'CobranzaController@pdf_recibo')->middleware('auth');
+Route::get('cons_recibos', 'CobranzaController@consulta_recibos_index')->middleware('auth');
+Route::get('ing_expedientes', 'ExpedienteController@expedientes_index')->middleware('auth');
+Route::get('index_estadistica', 'CobranzaController@index_estadistica')->middleware('auth');
+Route::get('ing_convenios', 'ConveniosController@index_convenios')->middleware('auth');
+Route::get('unidades_mant', 'UnidadController@index')->middleware('auth');
+Route::get('personas_mant', 'PersonaController@index')->middleware('auth');
+Route::get('historico_ipc_mant', 'HistoricoIpcController@index')->middleware('auth');
+Route::get('historia_recibo', 'RegistroSucesoController@index')->middleware('auth');
+
+// =================================================================================
+// ===  INGRESO DE RECIBOS y MOROSIDAD ============================================
+// =================================================================================
+
+Route::resource('facturas/convenio', 'ConveniosController')->middleware('auth');
+Route::get('datos_estadistica', 'CobranzaController@datos_estadistica')->middleware('auth');
+Route::get('index_morosidad', 'CobranzaController@index_morosidad')->middleware('auth');
+Route::get('pdf_pagos', 'CobranzaController@pdf_pagos')->middleware('auth');
+Route::post('mostrar_morosidad', 'CobranzaController@morosidad')->middleware('auth');
+Route::post('conultar_recibos', 'CobranzaController@consuta_recibos')->middleware('auth');
+Route::post('guardar_recibo', 'CobranzaController@store_recibo')->middleware('auth');
+Route::post('eliminar_recibo', 'CobranzaController@EliminarRecibo')->middleware('auth');
+
+// =================================================================================
+//  EXPEDIENTES POR UNIDAD
+// =================================================================================
+
+Route::post('guardar_expediente', 'ExpedienteController@guardar_expediente')->middleware('auth');
+
+// =================================================================================
+// =================================================================================
+
+// Solicitudes AJAX
+Route::get('edificios/{id}/unidades','UnidadController@unidadesPorEdificio')->middleware('auth');
+Route::get('unidades/{id}/facturas','UnidadController@facturasPorUnidad')->middleware('auth');
+Route::get('unidades/{id}/recibos','UnidadController@recibosPorUnidad')->middleware('auth');
+Route::get('ultimopago','CobranzaController@ultimoPagoPorUnidad')->middleware('auth');
+
+
+// =================================================================================
+//   ROLES
+// =================================================================================
+
+Route::get('roles','RolController@index')->middleware('auth');
+
+// =================================================================================
+//   VEHICULOS
+// =================================================================================
+
+Route::get('unidades/{id}/vehiculos','UnidadController@vehiculosPorUnidad')->middleware('auth');
+Route::get('tipos_vehiculos','UnidadController@tiposVehiculosActivos')->middleware('auth');
+Route::post('guardar_vehiculo', 'UnidadController@store_vehiculo')->middleware('auth');
+Route::post('eliminar_vehiculo', 'UnidadController@update_vehiculo')->middleware('auth');
+Route::get('descargar-vehiculos', 'UnidadController@reportePDF_vehiculosUnidades')->name('vehiculos.pdf');
+
+// =================================================================================
+// =================================================================================
+
+// =================================================================================
+//   MOVIMIENTOS REGISTRALES
+// =================================================================================
+Route::get('tipos_mov_reg','UnidadController@tiposMovimientosRegistrales')->middleware('auth');
+Route::get('unidades/{id}/mov_reg','UnidadController@movimientosRegistralesPorUnidad')->middleware('auth');
+Route::post('eliminar_mov_registral', 'UnidadController@update_movimientos_registrales')->middleware('auth');
+Route::post('guardar_mov_reg', 'UnidadController@store_movimiento_registral')->middleware('auth');
+Route::post('guardar_persona_mov_reg', 'UnidadController@store_persona_mov_reg')->middleware('auth');
+Route::get('descargar-unidades-escrituradas', 'UnidadController@reportePDF_UnidadesEscrituradas')->name('unidades_escrituradas.pdf');
+// =================================================================================
+// =================================================================================
+
+// =================================================================================
+//   MANTENIMIENTO DE TITULARES O ITEGRANTES
+// =================================================================================
+
+Route::post('eliminar_titular', 'UnidadController@update_titular_a_unidad')->middleware('auth');
+Route::post('guardar_integrante', 'UnidadController@store_titular_a_unidad')->middleware('auth');
+Route::get('unidades/{id}/titulares','UnidadController@titularesPorUnidad')->middleware('auth');
+Route::post('get_datos_persona','PersonaController@get_PersonaPorCedula')->middleware('auth');
+Route::get('descargar-titulares', 'UnidadController@reportePDF_titularesUnidades')->name('titulares.pdf');
+Route::get('listar_titulares', 'UnidadController@listar_titularesUnidades')->middleware('auth');;
+// =================================================================================
+// =================================================================================
+
+// =================================================================================
+//   MANTENIMIENTO DE PERSONAS
+// =================================================================================
+
+Route::get('get_personas','PersonaController@get_Personas')->middleware('auth');
+Route::post('modificar_persona', 'PersonaController@update_persona')->middleware('auth');
+Route::post('eliminar_persona', 'PersonaController@remove_persona')->middleware('auth');
+Route::post('guardar_persona', 'PersonaController@store_persona')->middleware('auth');
+Route::post('get_datos_persona','PersonaController@get_PersonaPorCedula')->middleware('auth');
+
+// =================================================================================
+// =================================================================================
+
+
+// =================================================================================
+//   MANTENIMIENTO DE HISTORICO IPC
+// =================================================================================
+
+Route::post('guardar_indice', 'HistoricoIpcController@store_indice')->middleware('auth');
+Route::get('get_indices','HistoricoIpcController@get_indices')->middleware('auth');
+Route::post('modificar_indice', 'HistoricoIpcController@update_indice')->middleware('auth');
+Route::post('eliminar_indice', 'HistoricoIpcController@remove_indice')->middleware('auth');
+Route::post('get_datos_indice','HistoricoIpcController@get_IndicePorId')->middleware('auth');
+
+// =================================================================================
+// =================================================================================
+
+
+Route::get('unidades/{id}/expedientes','UnidadController@expedientesPorUnidad')->middleware('auth');
+Route::get('descargar-edificios', 'EdificioController@Reporte_PDF_Edificios')->name('edificios.pdf');
+
+// Importe Gastos Comunes por Unidad
+Route::get('precio_gc_por_unidad/{id}/importe','CobranzaController@precioPorUnidad')->middleware('auth');
+
+Route::get('precio_gc_por_unidad_fecha/{id}/{mes}/{anio}/importe_fecha','CobranzaController@precioPorUnidadMesAnio')->middleware('auth');
+
+// Nombre Titular por Unidad
+Route::get('nombre_titular_por_unidad/{id}/nombre_titular','CobranzaController@nombreTitularPorUnidad')->middleware('auth');
+
+// =================================================================================
+// =================================================================================
+
+// ===  Facturación  ==================================================================
+// CONVENIOS
+
+Route::get('crear-convenio', 'ConveniosController@create')->middleware('auth');
+//Route::get('crear-convenio-index', 'ConveniosController@index')->middleware('auth');
+
+// FACTURAS
+//Route::resource('facturas/index', 'FacturasController')->middleware('auth');
+
+
+// Solicitudes AJAX
+Route::get('convenio/{id}/unidad','ConveniosController@totalFacturasPendientesPorUnidad')->middleware('auth');
+//Route::get('departamentos/{id}/facturas','DepartamentoController@facturasPorDepartamento')->middleware('auth');
+
+// =================================================================================
+// =================================================================================
+
+
+// ===  Usuarios  ==================================================================
+
+Auth::routes();
+Route::get('/home', 'HomeController@index')->name('home')->middleware('auth');
+
+// =================================================================================
+// =================================================================================
+
+
+// =================================================================================
+//   REGISTRO DE SUCESOS
+// =================================================================================
+// Solicitudes AJAX
+Route::post('get_registros', 'RegistroSucesoController@get_registros')->middleware('auth');
+Route::post('get_historia_recibo', 'RegistroSucesoController@get_historia_recibo')->middleware('auth');
+
+// =================================================================================
+//   CONTABILIDAD - MOVIMIENTOS - RUBROS - CAJA DIARIA
+// =================================================================================
+// Solicitudes AJAX
+
+Route::get('contable_movimientos', 'MovimientoContableController@index')->middleware('auth');
+Route::get('rubros/{id}/sub_rubros','MovimientoContableController@subRubrosPorRubro')->middleware('auth');
+Route::post('guardar_movimiento', 'MovimientoContableController@guardar_movimiento')->middleware('auth');
+
+
+// =================================================================================
+//   UTILES
+// =================================================================================
+
+//Clear Cache facade value:
+Route::get('/borrar_cache', function() {
+    $exitCode = Artisan::call('cache:clear');
+    return '<h1>Valor de fachada de caché borrado</h1>';
+});
+
+//Reoptimized class loader:
+Route::get('/optimizar', function() {
+    $exitCode = Artisan::call('optimize');
+    return '<h1>Cargador de clases optimizado</h1>';
+});
+
+//Route cache:
+Route::get('/rutas_cache', function() {
+    $exitCode = Artisan::call('route:cache');
+    return '<h1>Rutas en caché</h1>';
+});
+
+//Clear Route cache:
+Route::get('/rutas_limpiar', function() {
+    $exitCode = Artisan::call('route:clear');
+    return '<h1>Rutas caché borrada</h1>';
+});
+
+//Clear View cache:
+Route::get('/view-clear', function() {
+    $exitCode = Artisan::call('view:clear');
+    return '<h1>View cache cleared</h1>';
+});
+
+//Clear Config cache:
+Route::get('/config-cache', function() {
+    $exitCode = Artisan::call('config:cache');
+    return '<h1>Clear Config cleared</h1>';
+});
+
+
+// =================================================================================
+// =================================================================================

@@ -1,0 +1,67 @@
+Crear nuevo proyecto con la nueva version
+
+====================================================================
+Instalar Complementos
+====================================================================
+
+ LaravelCollective
+
+composer require "laravelcollective/html":"^5.3.0"
+
+'providers' => [
+    // ...
+    Collective\Html\HtmlServiceProvider::class,
+    // ...
+  ],
+
+  'aliases' => [
+    // ...
+      'Form' => Collective\Html\FormFacade::class,
+      'Html' => Collective\Html\HtmlFacade::class,
+    // ...
+  ],
+
+  ====================================================================
+  ====================================================================
+
+  Instalar Lenguaje Español a LaravelCollective
+
+ ====================================================================
+ ====================================================================
+
+ Instalar barryvdh/laravel-dompdf :: Crear PDF
+
+
+ composer require barryvdh/laravel-dompdf
+
+'providers' => [
+ ....
+ Barryvdh\DomPDF\ServiceProvider::class,
+],
+
+'aliases' => [
+ ....
+ 'PDF' => Barryvdh\DomPDF\Facade::class,
+]
+
+ ====================================================================
+ ====================================================================
+
+ Instalar Datatables
+
+ composer require yajra/laravel-datatables-oracle
+
+ .....
+'providers' => [
+	....
+	Yajra\DataTables\DataTablesServiceProvider::class,
+]
+'aliases' => [
+	....
+	'DataTables' => Yajra\DataTables\Facades\DataTables::class,
+]
+.....
+
+
+====================================================================
+====================================================================

@@ -1,0 +1,19 @@
+
+1: Descargar del repositorio
+	https://gitlab.com/rpias/sigecs_laravel_5.8
+	
+2: Instalar XAMPP(PHP, MySQL) y Composer
+
+3: renombrar .env.example por .env
+4: modificar los parametros por lo que correspondan al ambiente
+	DB_HOST=127.0.0.1
+	DB_PORT=33306
+	DB_DATABASE=sigecs
+	DB_USERNAME=root
+	DB_PASSWORD=root
+
+5: Ejecutar composer update
+6: Ejecutar php artisan key:generate
+7: Ejecutar php artisan config:cache
+8: Ejecutar php artisan serve
+

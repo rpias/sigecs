@@ -1,0 +1,495 @@
+Fecha,NroRecibo,Torre Letra,Torre Nro,Apto,Monto,Concepto,Cuota o Mes,Año,Titular,Rubrica,Observaciones
+3/06/2017,135450,A,1,402,2130,Gastos Comunes,4,2017,Marcelo Torres.,CG,-
+5/06/2017,135488,A,1,802,200,Convenio,0,2017,Viviana Morales,CG,"restan 43250, se desconoce cuotas,"
+5/06/2017,135488,A,1,802,2130,Gastos Comunes,5,2017,Viviana Morales,CG,-
+5/06/2017,135526,A,1,501,1655,Gastos Comunes,11,2016,Danilo Bautista,CG,-
+7/06/2017,135596,A,1,603,2130,Gastos Comunes,5,2017,Mariana Sangorrin,CG,-
+8/06/2017,135680,A,1,3,1730,Gastos Comunes,5,2017,Walter Biche,AF,-
+9/06/2017,135704,A,1,103,2130,Gastos Comunes,5,2017,Ayesi Antunez,AF,-
+9/06/2017,135737,A,1,401,1750,Gastos Comunes,6,2017,Artinka Ipekian,AF,-
+9/06/2017,135742,A,1,502,2130,Gastos Comunes,3,2017,Miguel ,AF,-
+12/06/2017,135828,A,1,1,1000,Convenio,0,2017,Nathalie Morena,AF,Saldo Convenio 73.000
+12/06/2017,135828,A,1,1,2130,Gastos Comunes,5,2017,Nathalie Morena,AF,-
+12/06/2017,135849,A,1,902,2070,Gastos Comunes,12,2016,Pablo Garcia,AF,-
+12/06/2017,135849,A,1,902,2070,Gastos Comunes,1,2017,Pablo Garcia,AF,
+13/06/2017,135881,A,1,104,1750,Gastos Comunes,5,2017,Maria Perez,AF,-
+13/06/2017,135899,A,1,501,1655,Gastos Comunes,12,2016,Danilo Bautista,AF,-
+16/06/2017,135982,A,1,1001,1750,Gastos Comunes,6,2017,Amelia Sus Villanueva,RB,-
+16/06/2017,135996,A,1,901,1750,Gastos Comunes,5,2017,Gladys Recarte,RB,-
+16/06/2017,136004,A,1,201,2000,Convenio,0,2017,Luis Moll,RB,restan 48145. se desconocen cuotas
+16/06/2017,136004,A,1,201,1750,Gastos Comunes,4,2017,Luis Moll,RB,-
+21/06/2017,136122,A,1,704,500,Convenio,0,2017,Maria Cristina Rodriguez,RR,"Restan 65445, se desconoce cuotas."
+21/06/2017,136122,A,1,704,1750,Gastos Comunes,5,2017,Maria Cristina Rodriguez,RR,-
+21/06/2017,136140,A,1,701,1750,Gastos Comunes,5,2017,Mario Da Costa,RR,-
+23/06/2017,136201,A,1,302,2130,Gastos Comunes,5,2017,Fabiana Acuña,RB,-
+23/06/2017,136207,A,1,501,1750,Gastos Comunes,1,2017,Danilo Bautista,RB,-
+24/06/2017,136219,A,1,102,1570,Convenio,0,2017,Maria Teresa Garcia,RB,Saldo 17000
+24/06/2017,136219,A,1,102,1570,Convenio,0,2017,Maria Teresa Gomez,-,Saldo  17000
+24/06/2017,136219,A,1,102,2130,Gastos Comunes,5,2017,Maria Teresa Garcia,RB,-
+24/06/2017,136219,A,1,102,2130,Gastos Comunes,5,2017,Maria Teresa Gomez,-,-
+28/06/2017,136225,A,1,2,2130,Gastos Comunes,5,2017,Maria Scapa,RB,-
+27/06/2017,136225,A,1,2,2130,Gastos Comunes,4,2017,Maria Scapa,RB,-
+26/06/2017,136225,A,1,2,2130,Gastos Comunes,3,2017,Maria Scapa,RB,-
+25/06/2017,136225,A,1,2,2130,Gastos Comunes,2,2017,Maria Scapa,RB,-
+24/06/2017,136232,A,1,204,1750,Gastos Comunes,5,2017,Diego Barbeta,RB,-
+24/06/2017,136233,A,1,1003,2130,Gastos Comunes,5,2017,Raquel Vila,RB,-
+26/06/2017,136282,A,1,902,2130,Gastos Comunes,2,2017,Pablo Garcia,RB,-
+26/06/2017,136292,A,1,404,1243,Convenio,0,2017,Hugo Gama,RB,Saldo 29857
+26/06/2017,136292,A,1,404,1750,Gastos Comunes,4,2017,Hugo Gama,RB,-
+28/06/2017,136343,A,1,803,1169,Convenio,0,2017,Maria Ines Serna,RG,Saldo  26897
+28/06/2017,136343,A,1,803,1169,Convenio,0,2017,Maria Ines Serna,RG,Saldo  26897
+28/06/2017,136343,A,1,803,1169,Convenio,0,2017,Maria Ines Serna,RG,Saldo  26897
+28/06/2017,136343,A,1,803,2130,Gastos Comunes,5,2017,Maria Ines Serna,RG,-
+28/06/2017,136343,A,1,803,2130,Gastos Comunes,5,2017,Maria Ines Serna,RG,-
+28/06/2017,136343,A,1,803,2130,Gastos Comunes,5,2017,Maria Ines Serna,RG,-
+29/06/2017,136391,A,1,702,2130,Gastos Comunes,5,2017,Lidia Brum,RG,-
+29/06/2017,136391,A,1,702,2130,Gastos Comunes,5,2017,Lidia Brum,RG,-
+29/06/2017,136391,A,1,702,2130,Gastos Comunes,5,2017,Lidia Brum,RG,-
+30/06/2017,136410,A,1,602,2130,Gastos Comunes,5,2017,Magali Pintos,RG,-
+30/06/2017,136410,A,1,602,2130,Gastos Comunes,5,2017,Magali Pintos,RG,-
+30/06/2017,136410,A,1,602,2130,Gastos Comunes,5,2017,Magali Pintos,RG,-
+30/06/2017,136448,A,1,202,1000,Convenio,0,2017,Victor Jurado,RG,Saldo 9500
+30/06/2017,136448,A,1,202,1000,Convenio,0,2017,Victor Jurado,RG,Saldo 9500
+30/06/2017,136448,A,1,202,1000,Convenio,0,2017,Victor Jurado,RG,Saldo 9500
+30/06/2017,136448,A,1,202,2130,Gastos Comunes,5,2017,Victor Jurado,RG,-
+30/06/2017,136448,A,1,202,2130,Gastos Comunes,5,2017,Victor Jurado,RG,-
+30/06/2017,136448,A,1,202,2130,Gastos Comunes,5,2017,Victor Jurado,RG,-
+4/07/2017,136533,A,1,703,2130,Gastos Comunes,6,2017,Oscar Cocaro,RB,-
+4/07/2017,136543,A,1,303,2130,Gastos Comunes,4,2017,Betty Guedes,RB,-
+4/07/2017,136543,A,1,303,2130,Gastos Comunes,5,2017,Betty Guedes,RB,-
+4/07/2017,136543,A,1,303,2130,Gastos Comunes,6,2017,Betty Guedes,RB,-
+4/07/2017,136564,A,1,402,2130,Gastos Comunes,5,2017,Marcelo Torres,RB,-
+4/07/2017,136566,A,1,802,200,Convenio,0,2017,Vivivana Morales,RB,Saldo 43050
+4/07/2017,136566,A,1,802,2130,Gastos Comunes,6,2017,Vivivana Morales,RB,-
+5/07/2017,136589,A,1,401,1750,Gastos Comunes,7,2017,Artin Kaiekian,RB,-
+6/07/2017,136653,A,1,403,2130,Gastos Comunes,7,2017,S Guioudjiañ,RG,-
+6/07/2017,136653,A,1,403,2130,Gastos Comunes,7,2017,S Guioudjiañ,RG,-
+7/07/2017,136721,A,1,1002,2130,Gastos Comunes,5,2017,Alicia Pizani,RG,
+7/07/2017,136721,A,1,1002,2130,Gastos Comunes,6,2017,Alicia Pizani,RG,
+29/07/2017,137439,A,1,102,1000,Convenio,0,2017,Maria Teresa Gomez,-,Saldo  16000
+29/07/2017,137439,A,1,102,2130,Gastos Comunes,6,2017,Maria Teresa Gomez,-,-
+2/09/2017,138549,A,1,102,1000,Convenio,0,2017,Maria Teresa Gomez,-,Saldo  15000
+2/09/2017,138549,A,1,102,2130,Gastos Comunes,7,2017,Maria Teresa Gomez,-,-
+28/10/2017,140545,A,1,102,1000,Convenio,0,2017,Maria Teresa Gomez,-,Saldo  14000
+28/10/2017,140545,A,1,102,2130,Gastos Comunes,8,2017,Maria Teresa Gomez,-,-
+12/12/2017,142185,A,1,102,1000,Convenio,0,2017,Maria Teresa Gomez,-,Saldo  13000
+12/12/2017,142185,A,1,102,2300,Gastos Comunes,9,2017,Maria Teresa Gomez,-,-
+27/01/2018,143775,A,1,102,1000,Convenio,0,2018,Maria Teresa Gomez,-,Saldo  12000
+27/01/2018,143775,A,1,102,2300,Gastos Comunes,10,2017,Maria Teresa Gomez,-,-
+3/02/2018,143985,A,1,202,2100,Convenio,0,2018,Victor Jurado,RG,Saldo  2800
+3/02/2018,143985,A,1,202,2300,Gastos Comunes,11,2017,Victor Jurado,RG,-
+3/02/2018,143985,A,1,202,2300,Gastos Comunes,12,2017,Victor Jurado,RG,-
+3/02/2018,143985,A,1,202,2300,Gastos Comunes,1,2018,Victor Jurado,RG,-
+21/02/2018,144687,A,1,701,1890,Gastos Comunes,1,2018,Mario Da Costa,RB,-
+22/02/2018,144693,A,1,204,1890,Gastos Comunes,1,2018,Diego Baubeta,RB,-
+24/02/2018,144767,A,1,1003,1000,Convenio,0,2018,Raquel Vila,RB,Saldo 39630
+24/02/2018,144767,A,1,1003,2300,Gastos Comunes,1,2018,Raquel Vila,RB,-
+26/02/2018,144796,A,1,803,1169,Convenio,0,2018,Ma. Ines Serva,RB,Saldo 17545
+26/02/2018,144796,A,1,803,2300,Gastos Comunes,1,2018,Ma. Ines Serva,RB,-
+27/02/2018,144824,A,1,802,200,Convenio,0,2018,Viviana Morales,AF,Saldo Convenio 2500
+27/02/2018,144824,A,1,802,2300,Gastos Comunes,1,2018,Viviana Morales,AF,-
+1/03/2018,144919,A,1,602,2300,Gastos Comunes,1,2018,Magali Pintos,AF,-
+3/03/2018,144998,A,1,102,1000,Convenio,0,2018,Maria Teresa Gomez,-,Saldo  11000
+3/03/2018,144998,A,1,102,2300,Gastos Comunes,11,2017,Maria Teresa Gomez,-,-
+24/03/2018,145809,A,1,302,2300,Gastos Comunes,2,2018,Fabiana Acuña,AS,-
+26/03/2018,145838,A,1,3,1890,Gastos Comunes,2,2018,Walter Biques,AS,-
+26/03/2018,145840,A,1,204,1890,Gastos Comunes,2,2018,Diego Baubeta,AS,-
+27/03/2018,145861,A,1,1003,1000,Convenio,0,2018,Raquel Vila,AS,Saldo  $  38.630.-
+27/03/2018,145861,A,1,1003,2300,Gastos Comunes,2,2018,Raquel Vila,AS,-
+27/03/2018,145886,A,1,1002,2300,Gastos Comunes,2,2018,Alicia Pizani,AS,-
+28/03/2018,145895,A,1,602,2300,Gastos Comunes,2,2018,Magali Pintos,AS,-
+28/03/2018,145909,A,1,804,1890,Gastos Comunes,9,2017,Miriam Meliante,AS,Fines marzo 2018 pago cuotas Set y Oct 2017????
+28/03/2018,145909,A,1,804,1890,Gastos Comunes,10,2017,Miriam Meliante,AS,Fines marzo 2018 pago cuotas Set y Oct 2017????
+29/03/2018,145936,A,1,303,2300,Gastos Comunes,2,2018,Betty Guedes,AS,Pago 2 meses juntos
+29/03/2018,145936,A,1,303,2300,Gastos Comunes,3,2018,Betty Guedes,AS,Pago 2 meses juntos
+2/04/2018,145942,A,1,502,2300,Gastos Comunes,2,2018,Miguel Reisch,AS,-
+2/04/2018,145945,A,1,703,2300,Gastos Comunes,4,2018,Oscar Cocazo,AS,-
+2/04/2018,145947,A,1,803,1169,Convenio,0,2018,Mª Ines Serna,AS,Saldo $  16.376.-
+2/04/2018,145947,A,1,803,2300,Gastos Comunes,2,2018,Mª Ines Serna,AS,-
+3/04/2018,146007,A,1,401,1890,Gastos Comunes,4,2018,Artinka Ipekian,AS,-
+3/04/2018,146022,A,1,704,500,Convenio,0,2018,Maria Cristina Rodriguez,AS,Saldo $  61.445.-
+3/04/2018,146022,A,1,704,1890,Gastos Comunes,1,2018,Maria Cristina Rodriguez,AS,-
+4/04/2018,146057,A,1,402,2300,Gastos Comunes,12,2017,Marcelo Torres,AS,-
+6/04/2018,146140,A,1,802,200,Convenio,0,2018,Viviana Morales,AS,Saldo  $  41.650.-
+6/04/2018,146140,A,1,802,2300,Gastos Comunes,3,2018,Viviana Morales,AS,-
+7/04/2018,146208,A,1,403,2300,Gastos Comunes,4,2018,S. Guiondjian,AS,-
+7/04/2018,146218,A,1,2,2300,Gastos Comunes,3,2018,Alejandra Scappa,AS,-
+9/04/2018,146279,A,1,504,1890,Gastos Comunes,3,2018,Adriana Morante,RB,-
+9/04/2018,146282,A,1,702,2300,Gastos Comunes,2,2018,Lidia Brum,RB,-
+10/04/2018,146313,A,1,103,2300,Gastos Comunes,3,2018,Amesi Antunez,RB,-
+10/04/2018,146321,A,1,101,1250,Convenio,0,2018,Neroda,RB,Saldo 11.000
+10/04/2018,146321,A,1,101,1750,Gastos Comunes,8,2017,Neroda,RB,-
+14/04/2018,146538,A,1,501,1890,Gastos Comunes,3,2018,Danilo Bautista,AS,-
+18/04/2018,146650,A,1,1001,1890,Gastos Comunes,4,2018,Amelia Sus Villanueva,AS,-
+20/04/2018,146724,A,1,903,2300,Gastos Comunes,2,2018,Deolinda Morel,AS,Nombre Ilegible
+20/04/2018,146727,A,1,1,1000,Convenio,0,2018,Nathalie Morena,AS,Saldo $  64.000.-
+20/04/2018,146727,A,1,1,2300,Gastos Comunes,2,2018,Nathalie Morena,AS,-
+21/04/2018,146750,A,1,603,2300,Gastos Comunes,2,2018,Mariana Sangorrin,AS,-
+21/04/2018,146750,A,1,603,2300,Gastos Comunes,3,2018,Mariana Sangorrin,AS,
+23/04/2018,146786,A,1,201,2000,Convenio,0,2018,Luis Moll,AS,Saldo $  2.645.-
+23/04/2018,146786,A,1,201,1890,Gastos Comunes,2,2018,Luis Moll,AS,-
+23/04/2018,146792,A,1,901,1890,Gastos Comunes,3,2018,Gladys Rearte,AS,No esta claro el apellido
+26/04/2018,146858,A,1,104,1890,Gastos Comunes,3,2018,Nelly Perez,RG,-
+26/04/2018,146863,A,1,302,2300,Gastos Comunes,3,2018,Fabiana Acuña,RG,-
+27/04/2018,146896,A,1,204,1890,Gastos Comunes,3,2018,Diego Baubeta,RG,-
+30/04/2018,146928,A,1,803,1169,Convenio,0,2018,Maria Ines Serna,RG,Saldo  15207
+30/04/2018,146928,A,1,803,2300,Gastos Comunes,3,2018,Maria Ines Serna,RG,-
+2/05/2018,146997,A,1,703,2300,Gastos Comunes,5,2018,Oscar Cocaro,RB,-
+2/05/2018,147004,A,1,602,2300,Gastos Comunes,3,2018,Magali Pintos,RB,-
+3/05/2018,147046,A,1,3,1890,Gastos Comunes,3,2018,Walter Biques,RB,-
+3/05/2018,147064,A,1,704,1000,Convenio,0,2018,Maria Cristina Rodriguez,RB,Saldo 60445
+3/05/2018,147064,A,1,704,1890,Gastos Comunes,2,2018,Maria Cristina Rodriguez,RB,-
+3/05/2018,147064,A,1,704,1890,Gastos Comunes,3,2018,Maria Cristina Rodriguez,RB,-
+4/05/2018,147099,A,1,403,2300,Gastos Comunes,5,2018,S Guiondjian,RB,-
+8/05/2018,147279,A,1,401,1890,Gastos Comunes,5,2018,ARZIVKA IPEKIAN,EL,-
+9/05/2018,147321,A,1,502,2300,Gastos Comunes,4,2018,Miguel Angel Reich,EL,-
+9/05/2018,147330,A,1,103,2300,Gastos Comunes,4,2018,Ayesi ANTUNEZ,EL,-
+9/05/2018,147352,A,1,504,1890,Gastos Comunes,4,2018,Adriana Morante,EL,-
+14/05/2018,147528,A,1,901,1890,Gastos Comunes,4,2018,Gladys Recarte,AF,-
+14/05/2018,147533,A,1,1,1000,Convenio,0,2018,Natalie Morena,AF,Saldo Convenio 63000
+14/05/2018,147533,A,1,1,2300,Gastos Comunes,3,2018,Natalie Morena,AF,-
+16/05/2018,147601,A,1,402,2300,Gastos Comunes,1,2018,Marcelo Torres,RB,-
+16/05/2018,147606,A,1,802,200,Convenio,0,2018,Viviana Morales,RB,Saldo 41450
+16/05/2018,147606,A,1,802,2300,Gastos Comunes,4,2018,Viviana Morales,RB,-
+18/05/2018,147657,A,1,1001,1890,Gastos Comunes,5,2018,Amelia Sus Villanueva,RG,-
+18/05/2018,147675,A,1,3,1890,Gastos Comunes,4,2018,Walter Biques,RG,-
+19/05/2018,147717,A,1,2,2300,Gastos Comunes,4,2018,Alejandra Scappa,RG,-
+19/05/2018,147717,A,1,2,2300,Gastos Comunes,5,2018,Alejandra Scappa,RG,
+21/05/2018,147731,A,1,304,1500,Convenio,0,2018,Clara Gomez,RG,Saldo  23500
+21/05/2018,147731,A,1,304,1890,Gastos Comunes,11,2017,Clara Gomez,RG,-
+21/05/2018,147733,A,1,104,1890,Gastos Comunes,4,2018,Nelly Perez,RG,-
+22/05/2018,147788,A,1,701,1890,Gastos Comunes,4,2018,Mario Da Costa,RG,-
+24/05/2018,147834,A,1,101,1890,Gastos Comunes,4,2018,Jhoana Neroda,RG,-
+25/05/2018,147840,A,1,803,1169,Convenio,0,2018,M Ines Serna,RG,Saldo 14038
+25/05/2018,147840,A,1,803,2300,Gastos Comunes,4,2018,M Ines Serna,RG,-
+26/05/2018,147869,A,1,1003,2300,Gastos Comunes,4,2018,Raquel Vila,CG,-
+26/05/2018,147869,A,1,1003,1000,Gastos Comunes,0,2018,Raquel Vila,CG,"Restan 36630, se desconoce cuota"
+28/05/2018,147880,A,1,302,2300,Gastos Comunes,4,2018,Fabiana Acuña,CG,-
+28/05/2018,147896,A,1,402,2350,Gastos Comunes,2,2018,Marcelo Torres,CG,-
+30/05/2018,147928,A,1,602,2300,Gastos Comunes,4,2018,Magali Pintos,CG,-
+31/05/2018,147996,A,1,201,2645,Convenio,0,2018,Luis Molla,CG,SALDO FINAL.
+31/05/2018,147996,A,1,201,1890,Gastos Comunes,3,2018,Luis Molla,CG,-
+31/05/2018,147998,A,1,204,1890,Gastos Comunes,4,2018,Diego Baubeta,CG,-
+2/06/2018,148025,A,1,403,2300,Gastos Comunes,6,2018,S. Guioddjiañ,RG,-
+11/06/2018,148377,A,1,103,2300,Gastos Comunes,5,2018,Ayesi Antunez,CG,-
+23/06/2018,148831,A,1,601,1890,Gastos Comunes,3,2018,Luis Rojas,RB,-
+25/06/2018,148839,A,1,1,1000,Convenio,0,2018,Nathalie Morena,RB,Saldo 62000
+25/06/2018,148839,A,1,1,2300,Gastos Comunes,4,2018,Nathalie Morena,RB,-
+26/06/2018,148861,A,1,302,2300,Gastos Comunes,5,2018,Fabiana Acuña,RB,-
+27/06/2018,148898,A,1,602,2300,Gastos Comunes,5,2018,Magali Pintos,RB,-
+27/06/2018,148920,A,1,704,1000,Convenio,0,2018,Maria Cristina Rodriguez,RB,Saldo 59445
+27/06/2018,148920,A,1,704,1890,Gastos Comunes,4,2018,Maria Cristina Rodriguez,RB,-
+27/06/2018,148920,A,1,704,1890,Gastos Comunes,5,2018,Maria Cristina Rodriguez,RB,-
+29/06/2018,148987,A,1,303,2300,Gastos Comunes,4,2018,Betty Guedes,RB,-
+29/06/2018,148987,A,1,303,2300,Gastos Comunes,5,2018,Betty Guedes,RB,-
+29/06/2018,148987,A,1,303,2300,Gastos Comunes,6,2018,Betty Guedes,RB,-
+2/07/2018,149074,A,1,304,1500,Convenio,0,2018,Clara Gomez,AS,Saldo $  22.000.-
+2/07/2018,149074,A,1,304,1890,Gastos Comunes,12,2017,Clara Gomez,AS,-
+3/07/2018,149100,A,1,703,2300,Gastos Comunes,7,2018,Oscar Cocaro,AS,-
+7/07/2018,149315,A,1,102,1000,Convenio,0,2018,Maria Teresa Gomez,-,Saldo  10000
+7/07/2018,149315,A,1,102,2300,Gastos Comunes,12,2017,Maria Teresa Gomez,-,-
+7/07/2018,149316,A,1,102,1000,Convenio,0,2018,Maria Teresa Gomez,-,Saldo  9000
+7/07/2018,149316,A,1,102,2300,Gastos Comunes,1,2018,Maria Teresa Gomez,-,-
+10/07/2018,149431,A,1,103,2300,Gastos Comunes,6,2018,AYESI ANTUNEZ,EL,-
+10/07/2018,149452,A,1,504,1890,Gastos Comunes,6,2018,Adriana Morante,RP,-
+21/08/2018,150867,A,1,503,1200,Convenio,0,2018,Teresa Amaral,F,Saldo convenio 66610
+21/08/2018,150867,A,1,503,2300,Gastos Comunes,1,2018,Teresa Amaral,F,-
+23/08/2018,150890,A,1,401,1890,Gastos Comunes,8,2018,Artinka Ipekián,F,-
+23/08/2018,150893,A,1,901,1890,Gastos Comunes,7,2018,Gladys Recarte,F,-
+27/08/2018,150976,A,1,701,1890,Gastos Comunes,7,2018,Mario  da  Costa,RR,-
+27/08/2018,150983,A,1,904,1750,Gastos Comunes,3,2017,Marina  Determerman,RR,16  meses
+27/08/2018,150983,A,1,904,1750,Gastos Comunes,4,2017,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1750,Gastos Comunes,5,2017,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1750,Gastos Comunes,6,2017,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1750,Gastos Comunes,7,2017,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1750,Gastos Comunes,8,2017,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1750,Gastos Comunes,9,2017,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1750,Gastos Comunes,10,2017,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1750,Gastos Comunes,11,2017,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1750,Gastos Comunes,12,2017,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1890,Gastos Comunes,1,2018,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1890,Gastos Comunes,2,2018,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1890,Gastos Comunes,3,2018,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1890,Gastos Comunes,4,2018,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1890,Gastos Comunes,5,2018,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1890,Gastos Comunes,6,2018,Marina  Determerman,RR,-
+27/08/2018,150983,A,1,904,1890,Gastos Comunes,7,2018,Marina  Determerman,RR,-
+27/08/2018,150986,A,1,302,2300,Gastos Comunes,7,2018,Fabiana  Acuña,RR,-
+31/08/2018,151109,A,1,1,1000,Convenio,6,2018,Nathalie Morena,F,Saldo convenio 60000
+31/08/2018,151109,A,1,1,2300,Gastos Comunes,6,2018,Nathalie Morena,F,-
+1/09/2018,151130,A,1,403,2300,Gastos Comunes,8,2018,S. Guondjián,F,-
+1/09/2018,151143,A,1,201,3780,Gastos Comunes,8,2018,Luis Moll,F,-
+3/09/2018,151185,A,1,504,1890,Gastos Comunes,8,2018,Adriana Morante,F,-
+3/09/2018,151187,A,1,304,1500,Convenio,1,2018,Clara Gómez,F,Saldo convenio 20500
+3/09/2018,151187,A,1,304,1890,Gastos Comunes,1,2018,Clara Gómez,F,-
+4/09/2018,151205,A,1,703,2300,Gastos Comunes,9,2018,Oscar  Cocaro,RR,-
+4/09/2018,151223,A,1,104,1890,Gastos Comunes,8,2018,Nelly  Pèrez,RR,-
+4/09/2018,151251,A,1,704,500,Convenio,7,2018,María Cristina Rodríguez,F,Saldo convenio 58445
+4/09/2018,151251,A,1,704,1890,Gastos Comunes,7,2018,María Cristina Rodríguez,F,-
+5/09/2018,151313,A,1,303,4600,Gastos Comunes,8,2018,Betty Guedes,F,Pagó julio y agosto 2018
+6/09/2018,151354,A,1,802,200,Convenio,8,2018,Viviana Morales,F,Saldo convenio 40650
+6/09/2018,151354,A,1,802,2300,Gastos Comunes,8,2018,Viviana Moraes,F,-
+11/09/2018,151562,A,1,103,2300,Gastos Comunes,8,2018,Ayesi Antúnez,F,-
+11/09/2018,151600,A,1,403,2300,Gastos Comunes,6,2018,Deolinda Morel,F,-
+12/09/2018,151617,A,1,602,2300,Gastos Comunes,7,2018,Magali  Pintos,-,-
+12/09/2018,151617,A,1,602,2300,Gastos Comunes,7,2018,Magali  Pintos ,RR,-
+12/09/2018,151623,A,1,803,2300,Gastos Comunes,7,2018,María Inés Serna,-,-
+15/09/2018,151757,A,1,402,2300,Gastos Comunes,5,2018,Marcelo Torres,F,-
+15/09/2018,151779,A,1,901,1890,Gastos Comunes,8,2018,Gladys Recarte,F,-
+17/09/2018,151822,A,1,1001,1890,Gastos Comunes,9,2018,Amelia Sus Villanueva,F,-
+22/09/2018,151914,A,1,403,2300,Gastos Comunes,9,2018,S- Guiondjián,F,-
+22/09/2018,151914,A,1,403,2300,Gastos Comunes,9,2018,S- Guiondjián,F,-
+24/09/2018,151923,A,1,1003,1000,Convenio,0,2018,Raquel Vila,RR,Saldo  convenio 32630    Falta numero de cuotas faltantes
+24/09/2018,151923,A,1,1003,3300,Gastos Comunes,8,2018,Raquel Vila,RR,-
+24/09/2018,151923,A,1,1003,3300,Gastos Comunes,8,2018,Raquel Vila,RR,-
+24/09/2018,151948,A,1,902,1500,Gastos Comunes,4,2018,Pablo García,F,Saldo de abril 2018   Falta saldo y numero de cuotas faltantes
+24/09/2018,151948,A,1,902,1500,Gastos Comunes,4,2018,Pablo García,F,Saldo de abril 2018   Falta saldo y numero de cuotas faltantes
+24/09/2018,151953,A,1,1,1000,Convenio,7,2018,Nathalie Morena,F,Saldo convenio 39000   Falta numero de cuotas restantes
+24/09/2018,151953,A,1,1,2300,Gastos Comunes,7,2018,Nathalie Morena,F,-
+24/09/2018,151953,A,1,1,2300,Gastos Comunes,7,2018,Nathalie Morena,F,-
+24/09/2018,151968,A,1,701,1890,Gastos Comunes,8,2018,Mario  Da  Costa,RR,-
+24/09/2018,151968,A,1,701,1890,Gastos Comunes,8,2018,Mario  Da  Costa,RR,-
+25/09/2018,151996,A,1,401,1890,Gastos Comunes,9,2018,Artinka Ipekián,F,-
+25/09/2018,151996,A,1,401,1890,Gastos Comunes,9,2018,Artinka Ipekián,F,-
+28/09/2018,152091,A,1,602,2300,Gastos Comunes,8,2018,Magali Pintos,RR,-
+01/10/2018,152158,A,1,204,1890,Gastos Comunes,8,2018,Diego Baubeta,RR,-
+01/10/2018,152159,A,1,204,1890,Gastos Comunes,9,2018,Diego Baubeta,RR,-
+2/10/2018,152172,A,1,502,2300,Gastos Comunes,9,2018,Miguel Reich,RR,-
+3/10/2018,152249,A,1,201,1890,Gastos Comunes,9,2018,Luis Moll,F,-
+4/10/2018,152282,A,1,3,1890,Gastos Comunes,8,2018,Walter Biques,F,-
+4/10/2018,152285,A,1,703,2300,Gastos Comunes,10,2018,Oscar Cócaro,F,-
+5/10/2018,152402,A,1,601,3780,Gastos Comunes,7,2018,Luis Rojas,RR,2 MESES
+6/10/2018,152450,A,1,903,2300,Gastos Comunes,7,2018,Deolinda Morel,F,-
+8/10/2018,152500,A,1,802,2300,Gastos Comunes,9,2018,Viviana  Morales,RR,-
+10/10/2018,152581,A,1,103,2300,Gastos Comunes,9,2018,Ayesi ANTUNEZ,RR,-
+10/10/2018,152600,A,1,504,1890,Gastos Comunes,9,2018,Adriana Morante,RR,-
+12/10/2018,152659,A,1,401,1890,Gastos Comunes,9,2018,Atin  Kapekian,RR,-
+13/10/2018,152691,A,1,501,1890,Gastos Comunes,9,2018,Danilo Bautista,F,Verificar mes
+16/10/2018,152768,A,1,901,1890,Gastos Comunes,9,2018,Gladys Recarte,RR,-
+16/10/2018,152782,A,1,504,2300,Gastos Comunes,9,2018,Matilde  Semblat,RR,-
+17/10/2018,152803,A,1,704,1000,Convenio,9,2018,María Cristina Rodríguez,F,Saldo convenio 57445
+17/10/2018,152803,A,1,704,3780,Gastos Comunes,9,2018,María Cristina Rodríguez,F,-
+17/10/2018,152810,A,1,3,1890,Gastos Comunes,9,2018,Walter Biques,RR,-
+17/10/2018,152812,A,1,104,1559,Gastos Comunes,4,2019,Nelly Pérez,F,saldo abril 2018 $ 331
+19/10/2018,152860,A,1,1001,1890,Gastos Comunes,10,2018,Amelia Sus Villanueva,F,-
+22/10/2018,152926,A,1,902,920,Convenio,1,2018,Pablo  Garcìa,RR,1 /10
+22/10/2018,152926,A,1,902,2300,Gastos Comunes,9,2018,Pablo  Garcìa,RR,-
+22/10/2018,152937,A,1,701,1890,Gastos Comunes,9,2018,Mario  Da  Costa,RR,-
+24/10/2018,152988,A,1,504,1890,Gastos Comunes,10,2018,Adriana  Morante,RR,Transferencia Brou.
+25/10/2018,152994,A,1,1003,1000,Convenio,9,2018,Raquel  Vila,RR,Saldo  31.630
+25/10/2018,152994,A,1,1003,2300,Gastos Comunes,9,2018,Raquel  Vila,RR,-
+30/10/2018,153091,A,1,1,1000,Convenio,8,2018,Nathalie Morena ,RR,Saldo  58.000
+30/10/2018,153091,A,1,1,2300,Gastos Comunes,8,2018,Nathalie Morena ,RR,-
+30/10/2018,153096,A,1,502,2300,Gastos Comunes,10,2018,Miguel  Reisch,RR,-
+30/10/2018,153117,A,1,303,4600,Gastos Comunes,10,2018,Betty  Guedes,RR,2  meses
+31/10/2018,153126,A,1,602,2300,Gastos Comunes,9,2018,Magalií Pintos,F,-
+1/11/2018,153183,A,1,403,2300,Gastos Comunes,10,2018,S. Guiondjian ,RR,-
+1/11/2018,153183,A,1,403,2300,Gastos Comunes,11,2018,S. Guiondjian ,RR,
+5/11/2018,153250,A,1,703,2300,Gastos Comunes,11,2018,Oscar  Cocaro,RR,-
+5/11/2018,153285,A,1,802,200,Convenio,10,2018,Viviana  Morales,RR,-
+5/11/2018,153285,A,1,802,2300,Gastos Comunes,10,2018,Viviana  Morales,RR,-
+6/11/2018,153309,A,1,302,2300,Gastos Comunes,9,2018,Fabiana Acuña,RR,-
+6/11/2018,153309,A,1,302,2300,Gastos Comunes,10,2018,Fabiana Acuña,RR,-
+10/11/2018,153514,A,1,603,2300,Gastos Comunes,10,2018,Mariana Sangorrín,F,-
+12/11/2018,153531,A,1,803,1169,Convenio,8,2018,Marìa Inès Serna,RR,Saldo  9362
+12/11/2018,153531,A,1,803,2300,Gastos Comunes,8,2018,Marìa Inès Serna,RR,-
+8/11/2018,153560,A,1,201,1890,Gastos Comunes,10,2018,Carlos  Moll,RR,-
+9/11/2018,153582,A,1,103,2300,Gastos Comunes,10,2018,Ayesi  Antunez,RR,-
+9/11/2018,153583,A,1,103,2300,Gastos Comunes,11,2018,Ayesi  Antunez,RR,-
+9/11/2018,153583,A,1,103,2300,Gastos Comunes,12,2018,Ayesi  Antunez,RR,-
+9/11/2018,153595,A,1,903,2300,Gastos Comunes,8,2018,Deolinda  Morel,RR,-
+12/11/2018,153610,A,1,902,920,Convenio,2,2018,Pablo García,F,Cuota 2 de 10
+12/11/2018,153610,A,1,902,2300,Gastos Comunes,10,2018,Pablo García,F,-
+12/11/2018,153634,A,1,704,500,Convenio,10,2018,Marìa  C Rodriguez,RR,Saldo   56.945
+12/11/2018,153634,A,1,704,1890,Gastos Comunes,10,2018,Marìa  C Rodriguez,RR,-
+16/11/2018,153792,A,1,901,1890,Gastos Comunes,10,2018,Gladys  RECARTE,RR,-
+16/11/2018,153813,A,1,1002,2300,Gastos Comunes,8,2018,Alicia Pizani ,RR,-
+16/11/2018,153813,A,1,1002,2300,Gastos Comunes,9,2018,Alicia Pizani ,RR,-
+16/11/2018,153813,A,1,1002,2300,Gastos Comunes,10,2018,Alicia Pizani ,RR,-
+17/11/2018,153821,A,1,501,1890,Gastos Comunes,10,2018,Danilo Bautista,F,-
+19/11/2018,153852,A,1,1003,1890,Gastos Comunes,11,2018,Amelia Sus Villanueva,RR,-
+19/11/2018,153862,A,1,402,2300,Gastos Comunes,6,2018,Marcelo  Torres,RR,-
+19/11/2018,153874,A,1,401,1890,Gastos Comunes,11,2018,Artinka  Ipekian,RR,-
+21/11/2018,153931,A,1,3,1890,Gastos Comunes,10,2018,Walter  Biques,RR,-
+22/11/2018,153935,A,1,701,1890,Gastos Comunes,10,2018,Mario  Da  Costa,RR,-
+27/11/2018,154059,A,1,204,1890,Gastos Comunes,10,2018,Diego Baubeta,F,-
+29/11/2018,154091,A,1,1003,1000,Convenio,10,2018,Raquel  Vila ,RR,Saldo  30.630
+29/11/2018,154091,A,1,1003,2300,Gastos Comunes,10,2018,Raquel  Vila ,RR,-
+3/12/2018,154183,A,1,502,2530,Gastos Comunes,11,2018,Miguel  Reisch,RR,-
+3/12/2018,154210,A,1,403,2300,Gastos Comunes,12,2018,S. Guionjiàn,F,-
+4/12/2018,154240,A,1,703,2300,Gastos Comunes,12,2018,Oscar  Cocaro,RR,-
+6/12/2018,154364,A,1,802,200,Convenio,11,2018,Viviana Morales,F,Saldo 40050
+7/12/2018,154398,A,1,1,1000,Convenio,0,2018,Nathalie  Morena,RR,Saldo 57.000
+7/12/2018,154398,A,1,1,1000,Convenio,0,2018,Nathalie  Morena,RR,Saldo 56000
+7/12/2018,154398,A,1,1,2300,Gastos Comunes,9,2018,Nathalie  Morena,RR,-
+7/12/2018,154398,A,1,1,2300,Gastos Comunes,10,2018,Nathalie  Morena,RR,-
+8/12/2018,154518,A,1,504,1890,Gastos Comunes,11,2018,Adriana Morante,F,-
+8/12/2018,154518,A,1,504,1890,Gastos Comunes,12,2018,Adriana Morante,F,
+10/12/2018,154553,A,1,903,2300,Gastos Comunes,9,2018,Deolinda Morel,F,-
+12/12/2018,154681,A,1,901,2070,Gastos Comunes,11,2018,Gladys Recarte,F,-
+12/12/2018,154696,A,1,704,1000,Convenio,0,2018,Marìa  Cristina  Rodriguez,RR,Saldo  conv  55.945
+12/12/2018,154696,A,1,704,1890,Gastos Comunes,11,2018,Marìa  Cristina  Rodriguez,RR,-
+12/12/2018,154696,A,1,704,1890,Gastos Comunes,12,2018,Marìa  Cristina  Rodriguez,RR,-
+14/12/2018,154752,A,1,1003,1000,Convenio,0,2018,Raquel  Vila,RR,Saldo  29.630
+14/12/2018,154752,A,1,1003,2530,Gastos Comunes,11,2018,Raquel  Vila,RR,-
+17/12/2018,154846,A,1,902,920,Convenio,3,2018,Pablo   Garcia ,RR,3/10
+17/12/2018,154846,A,1,902,2530,Gastos Comunes,11,2018,Pablo   Garcia ,RR,-
+18/12/2018,154867,A,1,402,2300,Gastos Comunes,8,2018,Marcelo  Torres,RR,-
+21/12/2018,155002,A,1,1001,2070,Gastos Comunes,12,2018,Amelia Sus Villanueva,F,-
+21/12/2018,155021,A,1,201,2070,Gastos Comunes,11,2018,Carlos  Moli,RR,-
+26/12/2018,155095,A,1,401,2070,Gastos Comunes,11,2018,Artinga  Ipekian,RR,-
+26/12/2018,155106,A,1,204,2070,Gastos Comunes,11,2018,Diego  Baubeta,RR,-
+27/12/2018,155123,A,1,3,2070,Gastos Comunes,11,2018,Walter Biques,F,-
+27/12/2018,155123,A,1,3,2070,Gastos Comunes,11,2018,Walter Biques,F,-
+27/12/2018,155125,A,1,302,2530,Gastos Comunes,11,2018,Fabiana Acuña,F,-
+27/12/2018,155125,A,1,302,2530,Gastos Comunes,11,2018,Fabiana Acuña,F,-
+27/12/2018,155148,A,1,403,2530,Gastos Comunes,1,2019,S. Guiondjián,F,-
+27/12/2018,155148,A,1,403,2530,Gastos Comunes,1,2019,S. Guiondjián,F,-
+27/12/2018,155155,A,1,501,2070,Gastos Comunes,11,2018,Danilo Bautista,F,-
+27/12/2018,155155,A,1,501,2070,Gastos Comunes,11,2018,Danilo Bautista,F,-
+28/12/2018,155190,A,1,604,1980,Gastos Comunes,10,2018,ANV,F,Transferencia Bancaria
+28/12/2018,155190,A,1,604,1980,Gastos Comunes,11,2018,ANV,F,Transferencia Bancaria
+2/01/2019,155275,A,1,703,2530,Gastos Comunes,1,2019,Oscar  Cocaro,RR,-
+7/01/2019,155465,A,1,2,2530,Gastos Comunes,12,2018,Alejandra Scappa,F,-
+10/01/2019,155631,A,1,802,200,Convenio,0,2018,Viviana Morales,F,Saldo 39850
+10/01/2019,155631,A,1,802,2530,Gastos Comunes,12,2018,Viviana Morales,F,-
+10/01/2019,155636,A,1,903,2300,Gastos Comunes,10,2018,Deolinda Morel,F,-
+11/01/2019,155662,A,1,602,2530,Gastos Comunes,12,2018,Magali  Pintos,RR,-
+14/01/2019,155770,A,1,902,920,Convenio,4,2018,Pablo   Garcia ,RR,4/10 – Saldo  5520
+14/01/2019,155770,A,1,902,2530,Gastos Comunes,12,2018,Pablo   Garcia ,RR,-
+18/01/2019,155944,A,1,102,3250,Convenio,0,2018,Eduardo  Gimenez,RR,-
+22/01/2019,156007,A,1,701,2070,Gastos Comunes,12,2018,Mario  da Costa,RR,-
+22/01/2019,156016,A,1,401,2070,Gastos Comunes,12,2018,Artinka Ipekián,F,-
+22/01/2019,156017,A,1,402,2300,Gastos Comunes,9,2018,Marcelo Torres,F,-
+22/01/2019,156026,A,1,204,2070,Gastos Comunes,12,2018,Diego Baubeta,F,-
+24/01/2019,156078,A,1,302,2530,Gastos Comunes,12,2018,Fabiana Acuña,F,-
+24/01/2019,156085,A,1,901,2070,Gastos Comunes,12,2018,Gladys  Recarte,RR,-
+25/01/2019,156102,A,1,303,2530,Gastos Comunes,11,2018,Betty Guedes,RR,-
+25/01/2019,156102,A,1,303,2530,Gastos Comunes,12,2018,Betty Guedes,RR,-
+26/01/2019,156117,A,1,1,1000,Convenio,0,2018,Nathalie Morena,RR ,Saldo  55.000
+26/01/2019,156117,A,1,1,2530,Gastos Comunes,11,2018,Nathalie Morena,RR,-
+26/01/2019,156119,A,1,403,2530,Gastos Comunes,2,2019,S.Guiondjian ,RR,-
+26/01/2019,156125,A,1,502,2530,Gastos Comunes,12,2018,Miguel  Reisch,RR,-
+28/01/2019,156148,A,1,1001,2070,Gastos Comunes,1,2019,Amelia Sus Villanueva,RR,-
+28/01/2019,156153,A,1,3,2070,Gastos Comunes,12,2018,Walter  Biques,RR,-
+30/01/2019,156192,A,1,803,1169,Convenio,0,2018,Ma  Inès  Serna,RR,Saldo  7.024.
+30/01/2019,156192,A,1,803,2300,Gastos Comunes,10,2018,Ma  Inès  Serna,RR,-
+30/01/2019,156196,A,1,1003,1000,Convenio,0,2018,Raquel  Vila,RR,Saldo  28.630
+30/01/2019,156196,A,1,1003,2530,Gastos Comunes,12,2018,Raquel  Vila,RR,-
+31/01/2019,156229,A,1,501,2070,Gastos Comunes,12,2018,Danilo  Bautista,RR,-
+4/02/2019,156339,A,1,102,1050,Convenio,1,2019,Eduardo Giménez,F,Saldo 29 Cuotas x 1050
+4/02/2019,156339,A,1,102,2530,Gastos Comunes,1,2019,Eduardo Giménez,F,-
+4/02/2019,156340,A,1,402,2300,Gastos Comunes,10,2018,Marcelo Torres,F,-
+4/02/2019,156349,A,1,902,920,Convenio,5,2019,PAblo García,F,5ª de 10
+4/02/2019,156349,A,1,902,2530,Gastos Comunes,1,2019,PAblo García,F,-
+5/02/2019,156382,A,1,502,2530,Gastos Comunes,1,2019,Miguel Reisch,F,-
+5/02/2019,156410,A,1,201,2070,Gastos Comunes,12,2018,Carlos Moll,F,-
+5/02/2019,156411,A,1,504,2070,Gastos Comunes,1,2019,Adriana Morante,F,-
+6/02/2019,156475,A,1,401,2070,Gastos Comunes,1,2019,Artinka Ipekián,F,-
+7/02/2019,156534,A,1,103,2530,Gastos Comunes,1,2019,Ayesi Antúnez,F,-
+8/02/2019,156576,A,1,802,200,Convenio,1,2019,Viviana Morales,F,Saldo 39650
+8/02/2019,156576,A,1,802,2530,Gastos Comunes,1,2019,Viviana Morales,F,-
+8/02/2019,156584,A,1,602,2530,Gastos Comunes,1,2019,Magalí Pintos,F,-
+11/02/2019,156689,A,1,903,2530,Gastos Comunes,11,2018,Deolinda Morel,F,-
+12/02/2019,156726,A,1,703,2530,Gastos Comunes,2,2019,Oscar Cócaro,F,-
+12/02/2019,156726,A,1,703,2530,Gastos Comunes,2,2019,Oscar Cócaro,F,-
+12/02/2019,156765,A,1,202,2800,Convenio,1,2019,Victor Jurado,F,-
+12/02/2019,156765,A,1,202,2800,Convenio,1,2019,Victor Jurado,F,-
+12/02/2019,156765,A,1,202,2530,Gastos Comunes,1,2019,Víctor Jurado,F,-
+12/02/2019,156765,A,1,202,2530,Gastos Comunes,1,2019,Víctor Jurado,F,-
+13/02/2019,156827,A,1,804,1004,Convenio,1,2019,Myriam Meliante,F,Saldo 24106
+13/02/2019,156827,A,1,804,2070,Gastos Comunes,2,2019,Myriam Meliante,F,-
+18/02/2019,156964,A,1,403,2530,Gastos Comunes,3,2019,S. Guiondjián,F,-
+19/02/2019,157002,A,1,1,1000,Convenio,12,2018,Nathalie Medina,F,Saldo 54000
+19/02/2019,157002,A,1,1,2530,Gastos Comunes,12,2018,Nathalie Medina,F,-
+19/02/2019,157019,A,1,204,2070,Gastos Comunes,1,2019,Diego  Baubeta,RR,-
+19/02/2019,157023,A,1,704,500,Convenio,0,2019,Marìa  Cristina Rodrìguez,RR,-
+19/02/2019,157023,A,1,704,2070,Gastos Comunes,1,2019,Marìa  Cristina Rodrìguez,RR,-
+20/02/2019,157027,A,1,701,2070,Gastos Comunes,1,2019,Marìo  Da Costa,RR,-
+21/02/2019,157054,A,1,702,3000,Convenio,0,2019,Lidia  Brun,RR,Saldo 22.990.
+22/02/2019,157088,A,1,604,2070,Gastos Comunes,1,2019,ANV,F,Saldo anterior $ 118230
+22/02/2019,157104,A,1,503,5000,Convenio,0,2019,Teresa Amaral,-,Saldo convenio 1 cuota de $ 1518 y 59 cuotas de $ 1498. Saldo total $ 89900
+25/02/2019,157141,A,1,1001,2070,Gastos Comunes,2,2019,Amelia Sus Villanueva,RR,-
+26/02/2019,157176,A,1,302,2530,Gastos Comunes,1,2019,Fabiana  Acuña,RR,-
+27/02/2019,157199,A,1,803,970,Convenio,0,2018,Ma. Inès  ,RR,Saldo  6054
+27/02/2019,157199,A,1,803,2530,Gastos Comunes,11,2018,Ma. Inès  ,RR,-
+28/02/2019,157258,A,1,1003,1000,Convenio,0,2019,Raquel  Vila,RR,Saldo  27.630
+28/02/2019,157258,A,1,1003,2530,Gastos Comunes,1,2019,Raquel  Vila,RR,-
+2/03/2019,157310,A,1,501,2070,Gastos Comunes,12,2018,Danilo Bautista,F,-
+2/03/2019,157317,A,1,703,2530,Gastos Comunes,3,2019,Oscar Cócaro,F,-
+4/03/2019,157337,A,1,3,2070,Gastos Comunes,1,2019,Walter Bique,F,-
+5/03/2019,157360,A,1,102,1050,Convenio,2,2019,Eduardo Giménez,F,Saldo 28 cuotas de $ 1050
+5/03/2019,157360,A,1,102,2530,Gastos Comunes,2,2019,Eduardo Giménez,F,-
+7/03/2019,157471,A,1,201,2070,Gastos Comunes,1,2019,Carlos  Moll,RR,-
+7/03/2019,157472,A,1,502,2530,Gastos Comunes,2,2019,Miguel  Reisch,RR,-
+9/03/2019,157548,A,1,802,200,Convenio,2,2019,Vivana Morales,F,Saldo 39450
+9/03/2019,157548,A,1,802,2530,Gastos Comunes,2,2019,Vivana Morales,F,-
+09/03/2019,157575,A,1,504,2070,Gastos Comunes,2,2019,Adriana Morante,F,-
+11/03/2019,157634,A,1,903,2530,Gastos Comunes,12,2018,Deolinda Morel,F,-
+11/03/2019,157647,A,1,303,2530,Gastos Comunes,1,2019,Betty Guedes,F,-
+11/03/2019,157647,A,1,303,2530,Gastos Comunes,2,2019,Betty Guedes,F,
+12/03/2019,157677,A,1,103,2530,Gastos Comunes,2,2019,Ayesi  Antunez,RR,-
+13/03/2019,157755,A,1,804,1004,Convenio,2,2019,Miriam Meliante,F,2ª de 25 – Saldo 23102
+13/03/2019,157755,A,1,804,2070,Gastos Comunes,3,2019,Miriam Meliante,F,-
+15/03/2019,157856,A,1,901,2070,Gastos Comunes,2,2019,Gladys  Recarte,RR,-
+18/03/2019,157918,A,1,401,2070,Gastos Comunes,2,2019,Artinka  Ipekian,RR,-
+18/03/2019,157929,A,1,702,470,Convenio,0,2019,Lidia  Brun,RR,1º cuota
+18/03/2019,157929,A,1,702,2530,Gastos Comunes,2,2019,Lidia  Brun,RR,-
+19/03/2019,158000,A,1,404,1005,Convenio,1,2019,Hugo  Gama,RR,1/69 – Saldo  68.340
+19/03/2019,158000,A,1,404,2070,Gastos Comunes,2,2019,Hugo  Gama,RR,-
+20/03/2019,158007,A,1,602,2530,Gastos Comunes,2,2019,Magali  Pintos,RR,-
+21/03/2019,158033,A,1,701,2070,Gastos Comunes,2,2019,Mario  Da  Costa,RR,-
+23/03/2019,158113,A,1,603,2530,Gastos Comunes,2,2019,Mariana Sangorrín,F,-
+23/03/2019,158117,A,1,302,2530,Gastos Comunes,2,2019,Fabiana Acuña,F,-
+25/03/2019,158128,A,1,1001,2070,Gastos Comunes,3,2019,Amelia Sus Villanueva,RR,-
+25/03/2019,158133,A,1,902,920,Convenio,6,2019,Pablo  Garcia,RR,6/10  - Saldo   3680
+25/03/2019,158133,A,1,902,2530,Gastos Comunes,2,2019,Pablo  Garcia,RR,-
+26/03/2019,158159,A,1,604,2070,Gastos Comunes,2,2019,ANV,F,Deuda anterior $ 118230
+27/03/2019,158199,A,1,704,500,Convenio,0,2019,Marìa  Cristina Rodriguez,RR,Saldo  54.945
+27/03/2019,158199,A,1,704,2070,Gastos Comunes,2,2019,Marìa  Cristina Rodriguez,RR,-
+27/03/2019,158218,A,1,1003,1000,Convenio,0,2019,Raquel Vila,-,Saldo 26630
+27/03/2019,158218,A,1,1003,2530,Gastos Comunes,2,2019,Raquel Vila,-,-
+28/03/2019,158238,A,1,204,2070,Gastos Comunes,2,2019,Diego  Baubeta,RR,-
+29/03/2019,158269,A,1,1,1000,Convenio,0,2019,Nathalie  Morena,RR,-
+29/03/2019,158269,A,1,1,2530,Gastos Comunes,1,2019,Nathalie  Morena,RR,-
+29/03/2019,158285,A,1,1002,2530,Gastos Comunes,11,2018,Alicia  Pizani,RR,-
+30/03/2019,158290,A,1,402,2530,Gastos Comunes,11,2018,Marcelo  Torres,RR,-
+30/03/2019,158337,A,1,102,1050,Convenio,3,2019,Eduardo Giménez,F,Saldo 28350
+30/03/2019,158337,A,1,102,2530,Gastos Comunes,3,2019,Eduardo Giménez,F,-
+02/04/2019,158390,A,1,403,2530,Gastos Comunes,4,2019,S Guiondjian,RR,-
+02/04/2019,158405,A,1,201,2070,Gastos Comunes,2,2019,Carlos Moll,F,-
+3/04/2019,158423,A,1,502,2530,Gastos Comunes,3,2019,Miguel Reisch,F,-
+4/04/2019,158473,A,1,703,2530,Gastos Comunes,4,2019,Oscar Cocaro,RR,-
+4/04/2019,158487,A,1,401,2070,Gastos Comunes,3,2019,Artinka Ipekian,RR,-
+05/04/2019,158536,A,1,3,2070,Gastos Comunes,2,2019,Walter  Bique,RR,-
+8/04/2019,158658,A,1,801,1890,Gastos Comunes,9,2018,Maria del C Borzani,RR,-
+8/04/2019,158658,A,1,801,1890,Gastos Comunes,10,2018,Maria del C Borzani,RR,-
+8/04/2019,158658,A,1,801,2070,Gastos Comunes,11,2018,Maria del C Borzani,RR,-
+8/04/2019,158658,A,1,801,2070,Gastos Comunes,12,2018,Maria del C Borzani,RR,-
+8/04/2019,158659,A,1,801,2070,Gastos Comunes,1,2019,Maria del C Borzani,RR,-
+8/04/2019,158659,A,1,801,2070,Gastos Comunes,2,2019,Maria del C Borzani,RR,-
+8/04/2019,158659,A,1,801,2070,Gastos Comunes,3,2019,Maria del C Borzani,RR,-
+8/04/2019,158659,A,1,801,2070,Gastos Comunes,4,2019,Maria del C Borzani,RR,-
+8/04/2019,158659,A,1,801,2070,Gastos Comunes,5,2019,Maria del C Borzani,RR,-
+9/04/2019,158681,A,1,504,2070,Gastos Comunes,3,2019,Adriana Morante,RR,-
+9/04/2019,158702,A,1,103,2530,Gastos Comunes,3,2019,Ayesi Antúnez,F,-
+10/04/2019,158779,A,1,602,2530,Gastos Comunes,3,2019,Magalí Pintos,F,-
+10/04/2019,158807,A,1,702,500,Convenio,2,2019,Lidia Brun,F,Saldo 21500
+10/04/2019,158807,A,1,702,2530,Gastos Comunes,3,2019,Lidia Brun,F,-
+11/04/2019,158843,A,1,902,920,Convenio,0,2019,Pablo Garcia,RR,Saldo 2760
+11/04/2019,158843,A,1,902,2530,Gastos Comunes,3,2019,Pablo Garcia,RR,-
+12/04/2019,158866,A,1,903,2530,Gastos Comunes,1,2019,Deolinda Morel,F,-
+13/04/2019,158939,A,1,804,1004,Convenio,3,2019,Myriam Meliante,F,3ª de 25 – Saldo 22098
+13/04/2019,158939,A,1,804,2070,Gastos Comunes,4,2019,Miryam Meliante,F,-
+15/04/2019,158989,A,1,402,2530,Gastos Comunes,12,2018,Marcelo Torres,F,-
+16/04/2019,159034,A,1,404,1005,Convenio,0,2019,Hugo Gama,F,Saldo 67335
+16/04/2019,159034,A,1,404,2070,Gastos Comunes,3,2019,Hugo Gama,F,-
+18/04/2019,159102,A,1,202,2530,Gastos Comunes,2,2019,Victor Jurado,RR,-
+18/04/2019,159103,A,1,202,2530,Gastos Comunes,3,2019,Victor Jurado,RR,-
+22/04/2019,159113,A,1,803,970,Convenio,0,2018,Maria Ines Serna,F,Saldo 5084
+22/04/2019,159113,A,1,803,2530,Gastos Comunes,12,2018,Maria Ines Serna,F,-
+23/04/2019,159178,A,1,503,2530,Gastos Comunes,2,2019,Teresa  Amaral,RR,-
+24/04/2019,159187,A,1,1001,2070,Gastos Comunes,4,2019,Amelia Sus Villanueva,RR,-
+25/04/2019,159209,A,1,701,2070,Gastos Comunes,2,2019,Mario  Da Costa,RR,-
+25/04/2019,159213,A,1,802,200,Convenio,0,2019,Viviana Morales,F,Saldo 39250
+25/04/2019,159213,A,1,802,2530,Gastos Comunes,3,2019,Viviana Morales,F,-

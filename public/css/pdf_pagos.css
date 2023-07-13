@@ -1,0 +1,23 @@
+@page 
+{
+    margin: 0.5cm 0.5cm;
+}
+
+img
+{
+    width: 600px;
+    height: 100px;
+}
+
+.encabezado
+{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#logoInferior
+{
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+}
